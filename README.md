@@ -49,8 +49,9 @@ Sinta-se livre para abrir uma issue ou enviar um pull request.
 ### ✨ Autor
 
 **Victor Laio**  
-📧 [victorlaio.dev@gmail.com](mailto:contatodev.laio@gmail.com)  
-🔗 [LinkedIn]([https://www.linkedin.com/in/victor-laio](https://www.linkedin.com/in/victor-laiosc/)) | [Portfólio]([https://victor-laio.github.io](https://victor-laio.github.io/meu-portfolio/))
+📧 [contatodev.laio@gmail.com](mailto:contatodev.laio@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/victor-laiosc/) | [Portfólio](https://victor-laio.github.io/meu-portfolio/)
+
 
 ---
 
